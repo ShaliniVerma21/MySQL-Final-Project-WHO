@@ -5,6 +5,8 @@
 ---
 
 #### 🚀 Final-SQL-Project-NASA 
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/b85b22e1-aab7-4f30-b5fd-91ba633869b5" />
+
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/b55bc8d5-67fb-4d50-9700-36fbed7e7db1" />
 
